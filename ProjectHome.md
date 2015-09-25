@@ -1,0 +1,1 @@
+Governors and Objects (go) is a distributed object-centric engine for developing advanced interactive multi-device systems. go has a strong focus on fast versioning of even the smallest objects.
